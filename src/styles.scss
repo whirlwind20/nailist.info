@@ -1,0 +1,15 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "./reset.css";
+
+body {
+  background: #fff2fa;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin-top: 15px;
+  text-align: center;
+}
